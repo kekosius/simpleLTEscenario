@@ -4,5 +4,5 @@ This script counts Throughput in DL and UL for each UE and outputs it to stdout.
 To run this program simply compile it and execute like below:
 ```
 g++ -o testApp ThroughputCount.cc
-./TestApp
+./testApp
 ```
